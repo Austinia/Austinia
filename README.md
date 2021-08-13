@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Austin
+## Hi there 👋 I'm Austin
 
-## Learning : Js, React, Python
+### Learning : Js, React, Python
 
-## record
+### record
 
-# FFXIVSearch Discord Bot
+#### FFXIVSearch Discord Bot
 https://koreanbots.dev/bots/856084843313758218
 <!--
 - 🔭 I’m currently working on ...
