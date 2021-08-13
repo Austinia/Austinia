@@ -1,11 +1,13 @@
 ## Hi there 👋 I'm Austin
 
-### Learning : Js, React, Python
+### Learning 🎓 : JavaScript, React, Python
+### Goal : Full-Stack Developer
 
-### record
+## Record 🧳
 
-#### FFXIVSearch Discord Bot
-https://koreanbots.dev/bots/856084843313758218
+#### FFXIVSearch Discord Bot : JavaScript
+Link : https://koreanbots.dev/bots/856084843313758218
+Repository : https://github.com/Austinia/DiscorditemsearchBot
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React, Js, Python
