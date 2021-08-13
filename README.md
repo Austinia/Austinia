@@ -8,6 +8,7 @@
 #### FFXIVSearch Discord Bot : JavaScript
 Link : https://koreanbots.dev/bots/856084843313758218  
 Repository : https://github.com/Austinia/DiscorditemsearchBot
+---
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React, Js, Python
