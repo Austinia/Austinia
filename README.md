@@ -6,7 +6,7 @@
 ## Record 🧳
 
 #### FFXIVSearch Discord Bot : JavaScript
-Link : https://koreanbots.dev/bots/856084843313758218
+Link : https://koreanbots.dev/bots/856084843313758218  
 Repository : https://github.com/Austinia/DiscorditemsearchBot
 <!--
 - 🔭 I’m currently working on ...
