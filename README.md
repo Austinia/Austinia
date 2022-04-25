@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Austin
 
-### Learning 🎓 : JavaScript, React, Python
+### Learning 🎓 : JavaScript: React.js, node.js
 ### Goal : Full-Stack Developer
 
 ## Record 🧳
