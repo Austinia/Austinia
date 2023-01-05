@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Austin
 
-### Learning 🎓 : JavaScript: React.js, node.js
-### Goal : Full-Stack Developer
+### Learning 🎓 : Java, Spring
+### Goal : Backend Developer
 
 ## Record 🧳
 
