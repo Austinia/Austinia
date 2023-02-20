@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Austin
 
-### Learning 🎓 : Java, Spring
-### Goal : Backend Developer
+### Learning 🎓 : Spring-boot, Vue.js
 
 ## Record 🧳
 
